@@ -131,10 +131,10 @@ The model uses the **logistic (sigmoid) function** to transform the output into 
 
 # RESULTS
 
-| **High German Churn (32%)** | Audit regional competitor pricing and localized branch services in Germany. |
-| **Product Overload (3+ Products)** | Simplify multi-product packaging. Train advisors to avoid aggressive cross-selling without onboarding support. |
-| **Middle-Aged Segment Attrition** | Create targeted wealth management, retirement planning, and premium loyalty perks for customers aged 40–60. |
-| **Inactive Member Exposure** | Trigger automated re-engagement email workflows offering complimentary financial consultations to inactive users. |
+- **High German Churn (32%)**: Audit regional competitor pricing and localized branch services in Germany
+- **Product Overload (3+ Products)**: Simplify multi-product packaging. Train advisors to avoid aggressive cross-selling without onboarding support
+- **Middle-Aged Segment Attrition**: Create targeted wealth management, retirement planning, and premium loyalty perks for customers aged 40–60
+- **Inactive Member Exposure**: Trigger automated re-engagement email workflows offering complimentary financial consultations to inactive users
 
 # TECHNOLOGIES USED
 
