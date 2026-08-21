@@ -103,7 +103,13 @@ Possible recommendations are the following:
 
 # TECHNOLOGIES USED
 
-- 
+***Python***
+***Pandas***
+***NumPy***
+***Matplotlib***
+***Seaborn***
+***Scikit-learn***
+***Jupyter Notebook***
 
 # FUTURE ADJUSTMENTS
 
