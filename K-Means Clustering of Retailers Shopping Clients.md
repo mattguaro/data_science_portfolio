@@ -50,7 +50,7 @@ We don't need to preprocess categorical features, as only three numerical variab
 <img width="1405" height="381" alt="image" src="https://github.com/user-attachments/assets/1d4e20bf-adcf-42ec-ac9d-69ba70a35372" />
 
 
-Using ***Elbow Method***, the algorithm is able to identify the optimum number of clusters by computing the Within-Cluster Sum of Squares (WCSS) for different numbers of subsets. The curve begins to be flat at ***k = 4***, indicating that 4 clusters provide a good balance between model complexity and explanatory power.
+A technique called ***Elbow Method*** is used to determine the optimal number of clusters, such that adding one more cluster doesn't provide anymore a better modelling of the data. The value is found by computing the Within-Cluster Sum of Squares (WCSS) for different numbers of subsets. It's identified by one ideal point meeting the sum of squares in y-axis and K number of clusters in x-axis. The advantages are that this is simple and intuitive and avoids overfitting by not choosing too many groups. The limitation is that Elbow Method might not be always well-defined in a dataset where a decrease in the Sum of Squares is not gradual. The curve begins to be flat at ***k = 4***, indicating that 4 clusters provide a good balance between model complexity and explanatory power.
 
 
 # VISUAL RESULTS - PART ONE
