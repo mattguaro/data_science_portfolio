@@ -96,15 +96,15 @@ The 1° group are budget-conscious or infrequent shoppers. The second group are 
 
 Possible recommendations are the following:
 
-1) The VIP customers, belonging to the 5° cluster, must keep going to have priority or early access on the last products on sale
-2) Special discount promotions for budget-conscious households can be targeted to cluster 1
-3) For cluster 4, the purpose is to investigate why they spend few. The solution is to conduct surveys to know their money habits, how do they save, invest, spend and finally knowing their shopping preferences in order to conduct specific retention strategies
+**1) The VIP customers, belonging to the 5° cluster, must keep going to have priority or early access on the last products on sale**
+**2) Special discount promotions for budget-conscious households can be targeted to cluster 1**
+**3) For cluster 4, the purpose is to investigate why they spend few. The solution is to conduct surveys to know their money habits, how do they save, invest, spend and finally knowing their shopping preferences in order to conduct specific retention strategies**
 
 
 # FUTURE ADJUSTMENTS
 
 
-The project might end here, as you can disclose simple but reasonable insights for business strategies over the short-term. However, in order to enhance it, it's possible to include additional features in the model to make it more explainable. Alternatively, deploying other clustering algorithms (e.g. Hierarchical Clustering, DBSCAN) is also important to compare the results with K-Means and make more precise conclusions.
+The project might end here, as you can disclose simple but reasonable insights for business strategies over the short-term. However, in order to enhance it, it's possible to include additional features in the model to make it more explainable. Alternatively, deploying other clustering algorithms (e.g. **Hierarchical Clustering**, **DBSCAN**) is also important to compare the results with K-Means and make more precise conclusions.
 
 
 # KEY TAKEAWAYS
