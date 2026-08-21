@@ -104,9 +104,9 @@ Possible recommendations are the following:
 # FUTURE ADJUSTMENTS
 
 
-The project might end here, as you can disclose simple but reasonable insights for business strategies over the short-term. However, in order to enhance it, it's possible to include additional features in the model to make it more explainable. Alternatively, deploying other clustering algorithms is also important to compare the results with K-Means and make more precise conclusions.
+The project might end here, as you can disclose simple but reasonable insights for business strategies over the short-term. However, in order to enhance it, it's possible to include additional features in the model to make it more explainable. Alternatively, deploying other clustering algorithms (e.g. Hierarchical Clustering, DBSCAN) is also important to compare the results with K-Means and make more precise conclusions.
 
 
 # KEY TAKEAWAYS
 
-Using Age VS Spending Score and Annual Income VS Spending Score, K-Means clustering successfully identified four and five meaningful customer groups. These segmentations can support more targeted marketing campaigns, a better allocation of advertising budgets and tailored promotional strategies
+Using ***Age VS Spending Score*** and ***Annual Income VS Spending Score***, K-Means clustering successfully identified four and five meaningful customer groups. These segmentations can support more *targeted marketing campaigns*, a *better allocation of advertising budgets* and *tailored promotional strategies*
