@@ -101,15 +101,15 @@ Possible recommendations are the following:
 **3) For cluster 4, the purpose is to investigate why they spend few. The solution is to conduct surveys to know their money habits, how do they save, invest, spend and finally knowing their shopping preferences in order to conduct specific retention strategies**
 
 
-# TECHNOLOGIES USED
+# TOOLS AND FRAMEWORKS USED
 
-***Python***
-***Pandas***
-***NumPy***
-***Matplotlib***
-***Seaborn***
-***Scikit-learn***
-***Jupyter Notebook***
+- ***Python***
+- ***Pandas***
+- ***NumPy***
+- ***Matplotlib***
+- ***Seaborn***
+- ***Scikit-learn***
+- ***Jupyter Notebook***
 
 # FUTURE ADJUSTMENTS
 
