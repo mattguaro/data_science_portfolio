@@ -136,7 +136,7 @@ The model uses the **logistic (sigmoid) function** to transform the output into 
 - **Middle-Aged Segment Attrition**: Create targeted wealth management, retirement planning, and premium loyalty perks for customers aged 40–60
 - **Inactive Member Exposure**: Trigger automated re-engagement email workflows offering complimentary financial consultations to inactive users
 
-# TECHNOLOGIES USED
+# TOOLS AND FRAMEWORKS USED
 
 - *Python*
 - *Pandas*
